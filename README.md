@@ -44,6 +44,3 @@ project_folder/
 ├── runtime.txt
 ├── README.md
 └── save frames/
-
-streamlit
-https://lizdetection-jrqv6txiwi5qvuvy3wo6pn.streamlit.app/
